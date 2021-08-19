@@ -11,5 +11,5 @@ let test = 123
 ## Wanwan conflict test
 
 ··
-let test = 321
-``
+<<<<<<< HEAD
+let test = 456
